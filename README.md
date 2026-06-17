@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I am Isha Khangarot
+#  Hi, I am Isha Khangarot
 
 **Electronics & Communication Engineer | Web Developer | Problem Solver**
 
@@ -59,8 +59,8 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 ###  Current Project
 
 | Project | Description |
-| :--- | :--- | :---: |
-| **[Workout Buddy](https://github.com/IshaKhangarot10/workout-buddy-mern)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts.
+| :--- | :--- |
+| **[Workout Buddy](https://github.com/IshaKhangarot10/workout-buddy-mern)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts. |
 
 
 <br>

@@ -60,7 +60,7 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| **[Workout Buddy](https://github.com/IshaKhangarot10/workout-buddy-mern)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts. | 🚧 *In Progress* |
+| **[Workout Buddy](https://github.com/IshaKhangarot10/workout-buddy-mern)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts.
 
 
 <br>

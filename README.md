@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Hi, I am Isha Khangarot
+# Hi, I am Isha Khangarot
 
 **Electronics & Communication Engineer | Web Developer | Problem Solver**
 
-I am a Bachelor of Technology student majoring in Electronics and Communication at the Indian Institute of Information Technology, Allahabad, graduating in 2027. I enjoy solving complex algorithmic challenges, and building functional full-stack applications.
+I am a Bachelor of Technology student majoring in Electronics and Communication at the Indian Institute of Information Technology, Allahabad, graduating in 2027. I enjoy writing clean code, solving complex algorithmic challenges, and building functional full-stack applications.
 
 <br>
 
@@ -17,7 +17,7 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 
 <br>
 
-### Tech Stack & Tools
+###  Tech Stack & Tools
 
 *Focusing on Data Structures, Algorithms, and Full-Stack Development*
 
@@ -60,7 +60,7 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| **[Workout Buddy](#)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts. | 🚧 *In Progress* |
+| **[Workout Buddy](https://github.com/IshaKhangarot10/workout-buddy-mern)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts. | 🚧 *In Progress* |
 
 
 <br>
@@ -69,17 +69,13 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 
 <br>
 
-###  Consistency & Growth
+### Consistency & Growth
 
 > *"Consistency is the baseline of engineering."*
 
 <br>
 
-* **Problem Solving:** Successfully implemented and optimized over 300 Data Structures and Algorithms problems in C++ across various coding platforms.
-* **Core Concepts:** Actively applying principles from AI/ML techniques, Operating Systems, and Database Management.
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=IshaKhangarot10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=A371F7" alt="Isha's GitHub Stats" />
+ **Problem Solving:** Successfully implemented and optimized over 300 Data Structures and Algorithms problems in C++ across various coding platforms.
+ **Core Concepts:** Actively applying principles from AI/ML techniques, Operating Systems, and Database Management.
 
 </div>

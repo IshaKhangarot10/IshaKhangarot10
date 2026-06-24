@@ -90,8 +90,6 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 
 <br>
 
-**Core Concepts:** Actively applying principles from AI/ML techniques, Operating Systems, and Database Management.
-
 <br><br>
 
 </div>

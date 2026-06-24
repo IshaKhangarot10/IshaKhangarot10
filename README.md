@@ -68,7 +68,7 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 | Project | Description |
 | :--- | :--- |
 | **[Workout Buddy](https://github.com/IshaKhangarot10/workout-buddy-mern)** | A full-stack MERN fitness tracking application featuring secure user authentication (JWT/bcrypt) and REST APIs to process CRUD operations for logging workouts. |
-| **[Entreskill](#)** | *[Add your description of Entreskill here - e.g., A full-stack web platform built to help users develop and track their entrepreneurial skills.]* |
+| **[Entreskill](https://github.com/IshaKhangarot10/Entre-Skill-Hub-)** | * A full-stack web platform built to help users develop and track their entrepreneurial skills.* |
 
 
 <br><br>

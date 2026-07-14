@@ -86,7 +86,7 @@ I am a Bachelor of Technology student majoring in Electronics and Communication 
 
 <br><br>
 
-**Problem Solving:** Successfully implemented and optimized over 300 Data Structures and Algorithms problems in C++ across various coding platforms.
+**Problem Solving:** Successfully implemented and optimized over 400 Data Structures and Algorithms problems in C++ across various coding platforms.
 
 <br>
 
